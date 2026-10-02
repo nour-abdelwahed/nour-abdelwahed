@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nour 👋
 
-<!--
-**nour-abdelwahed/nour-abdelwahed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computing Security student at **RIT Dubai**, focused on **Governance, Risk & Compliance (GRC)**.
 
-Here are some ideas to get you started:
+## 🎯 Focus areas
+- Security frameworks and controls (ISO 27001, NIST CSF)
+- Risk assessment and risk registers
+- Policy writing and compliance documentation
+- AI and automation applied to GRC workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Certifications
+- Google Cybersecurity Certificate
+- Microsoft SOC Program
+- Cisco Ethical Hacker
+
+## 🛠️ What I'm working on
+- Building GRC templates and write-ups (risk assessments, policies, control mappings)
+- Looking for a cybersecurity internship in the UAE
+
+## 📫 Connect
+- LinkedIn: www.linkedin.com/in/nour-abd-el-wahed
